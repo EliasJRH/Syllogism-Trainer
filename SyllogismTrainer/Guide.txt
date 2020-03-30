@@ -1,0 +1,22 @@
+Click the "New Statements" button to generate a new set of logic statements
+
+The nouns have been filled into the diagram from left to right in order of appearance in the statements
+
+Click and drag your mouse across the ven diagram on the bottom left to draw out the statements
+
+Use the spinners to determine mood and figure
+
+Use the radio buttons to check fallacies
+
+If you need to restart your ven diagram, press the "Clear Ven" button to get rid of any lines
+
+When you think you have to answer, press the "Check Answer" button to see if your answer was correct.
+
+If you're still confused on how to write out syllogisms, click the "How do I do this?" button for an in-depth guide
+
+
+- Made by Elias Hawa
+- Guide by Hamza Faour
+
+
+
