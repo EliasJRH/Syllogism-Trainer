@@ -550,7 +550,7 @@ public class Frame extends javax.swing.JFrame {
 
     private void howDoIDoThisButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_howDoIDoThisButtonActionPerformed
         try {
-            Desktop.getDesktop().browse(new URL("https://docs.google.com/document/d/1kLVTTsW7HThy8FUaU1ONhEuXvQsD4arZJfTHPuAORxo/edit?usp=sharing").toURI()); //Opens a url
+            Desktop.getDesktop().browse(new URL("https://docs.google.com/document/d/1K2dtBAAXEbHCOBrIzWWDaRN5l-EEKaVLEEhPV-f44sE/edit?usp=sharing").toURI()); //Opens a url
         } catch (Exception f) { //catch exception to open url
             f.printStackTrace();
         }
